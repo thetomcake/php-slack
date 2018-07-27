@@ -416,6 +416,10 @@ class Commander {
         'users.admin.setInactive' => [
             'token'    => true,
             'endpoint' => '/users.admin.setInactive'
+        ],
+        'users.admin.setUltraRestricted' => [
+            'token'    => true,
+            'endpoint' => '/users.admin.setUltraRestricted'
         ]
     ];
 
