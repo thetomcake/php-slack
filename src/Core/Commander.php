@@ -412,6 +412,10 @@ class Commander {
         'users.admin.invite' => [
             'token'    => true,
             'endpoint' => '/users.admin.invite'
+        ],
+        'users.admin.setInactive' => [
+            'token'    => true,
+            'endpoint' => '/users.admin.setInactive'
         ]
     ];
 
