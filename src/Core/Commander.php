@@ -417,9 +417,9 @@ class Commander {
             'token'    => true,
             'endpoint' => '/users.admin.setInactive'
         ],
-        'users.admin.setUltraRestricted' => [
+        'users.lookupByEmail' => [
             'token'    => true,
-            'endpoint' => '/users.admin.setUltraRestricted'
+            'endpoint' => '/users.lookupByEmail'
         ]
     ];
 
